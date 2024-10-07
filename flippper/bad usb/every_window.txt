@@ -5,4 +5,4 @@ LOOP:
 ALT F4
 DELAY 500  REM Delay between each window close
 
-GOTO LOOP  REM Loop infinitely
+GOTO LOOP
